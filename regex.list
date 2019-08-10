@@ -2,7 +2,6 @@
 i\.imedia\.cz$
 (^|\.)performax\.cz$
 (^|\.)aaucwbe\.com$
-(^|\.)gaypatrols\.com$
 (^|\.)giftreward\.site$
 .*\.g00\..*
 ^promo(s|t(ed|ion))?[-_.]
@@ -14,3 +13,19 @@ i\.imedia\.cz$
 ((^)|(.))adserv.
 ((^)|(.))tracking.
 ^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??telemetry[-.]
+^(.+[-_.])??xn--
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
