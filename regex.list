@@ -27,5 +27,4 @@ i\.imedia\.cz$
 ^count(ers?)?[0-9]*[-.]
 ^pixels?[-.]
 ^stat(s|istics)?[0-9]*[-.]
-^track(ers?|ing)?[0-9]*[-.]
 ^traff(ic)?[-.]
