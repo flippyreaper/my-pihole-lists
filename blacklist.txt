@@ -24,3 +24,4 @@ fe2.update.microsoft.com
 sls.update.microsoft.com
 imedia.cz
 schmuk.kuk
+000000000test.test
