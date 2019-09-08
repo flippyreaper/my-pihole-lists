@@ -1,4 +1,3 @@
-00007.shitfuck.007
 windowsupdate.microsoft.com
 update.microsoft.com
 windowsupdate.com
@@ -8,10 +7,8 @@ test.stats.update.microsoft.com
 ntservicepack.microsoft.com
 wustat.windows.com
 microsoft.com
-gaypatrols.com
 fatpass.com
 narcosxxxadultsgame
-men.com
 push-notifications.top
 surfpush.com
 system-alert.mobi
@@ -23,5 +20,3 @@ officeclient.microsoft.com
 fe2.update.microsoft.com
 sls.update.microsoft.com
 imedia.cz
-schmuk.kuk
-000000000test.test

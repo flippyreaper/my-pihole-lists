@@ -2104,3 +2104,4 @@ api.getpocket.com
 getpocket.com
 api.mixpanel.com
 api.segment.io
+self.events.data.microsoft.com

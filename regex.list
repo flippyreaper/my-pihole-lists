@@ -4,7 +4,6 @@ i\.imedia\.cz$
 (^|\.)aaucwbe\.com$
 (^|\.)giftreward\.site$
 .*\.g00\..*
-^promo(s|t(ed|ion))?[-_.]
 ((^)|(.))metric.
 ((^)|(.))telemetry.
 ((^)|(.))analytic.
@@ -12,8 +11,4 @@ i\.imedia\.cz$
 ((^)|(.))adsdk.
 ((^)|(.))adserv.
 ((^)|(.))tracking.
-^(.+\.)??(.*v10.+|.*watson.|.*vortex.|1drv|llnw|.*win.+|.ms.+|.*a.microsoft.+)\.(com|net)$
-^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
-^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
 ^(.+[-_.])??telemetry[-.]
-^adim(age|g)s?[0-9]*[-_.]
