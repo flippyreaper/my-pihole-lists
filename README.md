@@ -1,0 +1,3 @@
+# piholesync
+
+PIHOLE SYNC BITCH YEAH IT JUST WORKS
